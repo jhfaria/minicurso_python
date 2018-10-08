@@ -1,0 +1,35 @@
+matplotlib.plt.plot:
+
+* color:
+	* 'k' ou 'black'
+	* 'b' ou 'blue'
+	* 'c' ou 'cyan'
+	* 'g' ou 'green'
+	* 'm' ou 'magenta'
+	* 'r' ou 'red'
+	* 'y' ou 'yellow'
+	* 'w' ou 'white'
+
+* marker:
+	* '.' ponto
+	* ',' pixel
+	* 'o' circulo
+	* '*' estrela
+	* '+' +
+	* 'x' x
+
+* linestyle:
+	* '-'  continua
+	* '--' tracejada
+	* '-.' traco ponto
+	* ':'  pontilhada
+
+matplotlib.plt.scatter:
+
+* cmap:
+	* 'plasma'
+	* 'inferno'
+	* 'rainbow'
+	* 'jet'
+	* 'hot'
+	* 'spring'

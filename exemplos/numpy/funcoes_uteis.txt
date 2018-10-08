@@ -1,0 +1,7 @@
+array = np.arange(x)			 # cria um array com x elementos, de 0 ate x
+array = np.linspace(x, y, z)	 # cria um array com z elementos igualmente separados, de x a y
+array = np.zeros((x, y))		 # cria um array de x linhas e y colunas com 0s
+array = np.ones((x, y))			 # cria um array de x linhas e y colunas com 1s 
+array = np.random.random((x, y)) # cria um array de x linhas e y colunas com valores aleatorios entre 0 e 1
+
+array.reshape(x, y)				 # muda o array para x linhas e y colunas

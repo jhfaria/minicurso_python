@@ -1,0 +1,4 @@
+time.sleep(x) 		# delay de x segundos
+time.time()	  		# retorna quantos segundos se passaram desde 01/01/1970
+time.gmtime(x)		# converte de "segundos desde 1970" para a maneira usual
+time.localtime(x)	# igual a gmtime, mas coloca no fuso horario local

@@ -1,0 +1,3 @@
+os.system("comando")  # executa o "comando" no terminal
+lista = os.listdir()  # salva em 
+caminho = os.getcwd() # salva na variavel o caminho absoluto ate o arquivo

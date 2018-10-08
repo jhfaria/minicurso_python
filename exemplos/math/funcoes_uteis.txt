@@ -1,0 +1,17 @@
+fac 	= math.factorial(x) # x!
+mdc 	= math.gcd(x, y)	# maximo divisor comum entre x e y
+exp 	= math.exp(x)		# e^x
+log		= math.log(x)		# log(x)
+log_b10 = math.log10(x)		# log(x) na base 10
+pot 	= math.pow(x, y)	# x^y
+r2 		= math.sqrt(x)		# raiz quadrada
+acos	= math.acos(x)		# arco cosseno (em radianos)
+asen	= math.asin(x)		# arco seno (em radianos)
+atan	= math.atan(x)		# arco tangente (em radianos)
+cos		= math.cos(x)		# cosseno (x em rad!)
+sen		= math.sin(x)		# seno (x em rad!)
+tan		= math.tan(x)		# tangente (x em rad!)
+deg		= math.degrees(x)	# converte de radianos para graus
+rad 	= math.radians(x)	# converte de graus para radianos
+pi 		= math.pi 			# valor numerico de pi
+e 		= math.e 			# valor numerico de e
